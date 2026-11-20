@@ -1,0 +1,9 @@
+{
+  "id": "paseo-live-zh",
+  "name": "实时中文解说",
+  "description": "使用 OpenAI 兼容 API 实时把 Claude / GPT / Gemini / DeepSeek 等 Agent 最近几步的工作总结翻译为中文大白话，并在胶囊与侧边栏面板展示。",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.16.0"
+  }
+}
